@@ -1,0 +1,22 @@
+[
+{
+ "id": 1,
+ "filename": "cookie2.jpg",
+ "url": "./images/cookie2.jpg",
+ "alt": "Cookies",
+ "description": "Some yummy cookies",
+ "tags": ["cookies", "baked goods"],
+ "width": 1200,
+ "height": 800
+},
+{
+ "id": 2,
+ "filename": "cupcake2.jpg",
+ "url": "./images/cupcake2.jpg",
+ "alt": "Cupcakes",
+ "description": "Delicious cupcakes",
+ "tags": ["cupcakes", "baked goods"],
+ "width": 800,
+ "height": 1200
+}
+]

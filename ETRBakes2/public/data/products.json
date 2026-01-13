@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Cookies",
+    "price": 4.99,
+    "image": "/images/cookie2.jpg",
+    "description": "Some yummy cookies",
+    "category": "Baked Goods"
+  },
+  {
+    "id": 2,
+    "name": "Cupcakes",
+    "price": 9.99,
+    "image": "/images/cupcake2.jpg",
+    "description": "Delicious cupcakes",
+    "category": "Baked Goods"
+  }
+]
