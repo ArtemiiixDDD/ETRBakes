@@ -1,0 +1,11 @@
+{
+  "name": "static-shop",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npx live-server public --open=public/index.html"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
